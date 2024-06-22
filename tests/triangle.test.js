@@ -1,3 +1,11 @@
 import { describe, expect, it } from "vitest";
-import { isLove } from "../src/triangle";
+import { tercerAngulo } from "../src/triangle";
 
+describe("tercerAngulo", () => {
+    it("devolver 90 para angulos 30 y 60", () => {
+        const resultado = tercerAngulo(30, 60);
+        expect(resultado).toBe(90);
+
+        tercerAngulo(30, 60);
+    });  
+});
