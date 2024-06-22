@@ -27,3 +27,12 @@ describe("tercerAngulo", () => {
         tercerAngulo(43, 78);
     });  
 });
+
+describe("tercerAngulo", () => {
+    it("devolver 150 para angulos 10 y 20", () => {
+        const resultado = tercerAngulo(10, 20);
+        expect(resultado).toBe(150);
+
+        tercerAngulo(10, 20);
+    });  
+});
