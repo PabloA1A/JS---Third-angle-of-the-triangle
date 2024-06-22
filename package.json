@@ -1,5 +1,5 @@
 {
-  "name": "opposites",
+  "name": "triangle",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PabloA1A/JS---Opposites-Attract.git"
+    "url": "git+https://github.com/PabloA1A/JS---Third-angle-of-the-triangle.git"
   },
   "author": "Pablo Abad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PabloA1A/JS---Opposites-Attract/issues"
+    "url": "https://github.com/PabloA1A/JS---Third-angle-of-the-triangle/issues"
   },
-  "homepage": "https://github.com/PabloA1A/JS---Opposites-Attract#readme"
+  "homepage": "https://github.com/PabloA1A/JS---Third-angle-of-the-triangle#readme"
 }
