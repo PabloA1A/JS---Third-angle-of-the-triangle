@@ -53,3 +53,9 @@ Output:
 ## Requirements:
 
 The function must be tested with Vitest. Cases to test: Given 2 angles : 30, 60 -> 90 is expected. Given 2 angles : 60, 60 -> 60 is expected Given 2 angles : 43, 78 -> 59 is expected Given 2 angles : 10, 20-> 150 is expected
+
+## Files:
+
+## SRC = triangle.js
+
+## SRC => TESTS = triangle.test.js
